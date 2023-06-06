@@ -6,7 +6,7 @@
 
 🧰 My toolbox: R, Python, SQL, and a bit of C# and Java.
 
-📫 Contact me: send me an email at cassidy4499@ucla.edu or add me on LinkedIn.
+📫 Contact me: send me an email at cassidy4499@ucla.edu or add me on: 
   <a href="https://www.linkedin.com/in/cassidywood/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
