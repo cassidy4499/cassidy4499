@@ -2,7 +2,7 @@
 
 🖥️ I'm a GIS Analyst and UCLA grad (x2)!
 
-🗺️ My main skills are in GIS and cartography - see my GIS portfolio at (https://sites.google.com/view/cassidywoodportfolio/home)
+🗺️ My main skills are in GIS and cartography - see my GIS portfolio at https://sites.google.com/view/cassidywoodportfolio/home
 
 🧰 My toolbox: R, Python, SQL, Java, and a bit of C#.
 
